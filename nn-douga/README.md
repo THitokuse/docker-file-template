@@ -7,8 +7,11 @@ docker-compose version: 3
 ## 構築したコンテナイメージ
 
 mysql 5.7.21
+
 redis 4.0.6
+
 ffmpeg 3.3
+
 mp4box
 
 ## よく使うコマンド
